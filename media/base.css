@@ -1,0 +1,43 @@
+body{margin:0px;padding:0px;border-top:5px solid #8DA7BF;box-shadow:0 0 3px #bbb inset;}
+
+/* HEADER */
+#logo{width:352px;height:49px;display:block;}/*background:url(dcpython.png);*/
+#logo a{text-decoration:none;color:#333;font-family:arial black;text-transform:uppercase;font-size:44px;}
+header{background:url(bg_dot1.png);padding:10px;border-bottom:1px solid #ddd;}
+
+/* NAVIGATION */
+nav{margin:10px 0 10px -15px;}
+nav ul, nav li{padding:0px;margin:0px;list-style:none;}
+nav li{display:inline-block;padding:0 10px 0 10px;}
+nav li a{display:inline-block;padding:5px 10px 5px 10px;text-decoration:none;color:#919191;font-size:14px;font-family:arial black;-webkit-transition:all .2s linear;transition:all .2s linear;border-radius:4px;}
+nav li a:hover{color:#E0CA53;}
+nav li a.sel{color:black;}
+
+/* PAGE ABOUT */
+#about{font-family:georgia;font-size:40px;font-style:italic;color:#5A5A5A;}
+.highlight{background:#E0CA53;color:white;display:inline-block;padding:0 4px 0 4px;}
+.light-highlight{background:#F4EDC6;text-shadow:0 0 1px #bbb;display:inline-block;padding:0 2px 0 2px;border-radius:3px;}
+
+
+/* EACH SECTION */
+.center-page{width:900px;margin:auto;}
+.page{padding:20px 0 20px 0;}
+h1{font-family:arial black;text-transform:uppercase;color:#444;font-size:22px;margin:0px;border-bottom:1px solid #ccc;}
+p, li{font-family:georgia;color:#444;margin-top:0px;}
+
+
+/* MEETING CAL */
+.cal{background:url(meet-cal-bg.png) center;height:230px;}
+.cal article{width:570px;padding:17px 0 0 330px;margin:auto;}
+.event{width:280px;-webkit-transition:all .2s linear;opacity:0.77;border-radius:3px;box-shadow:0 0 3px #555;margin:5px 0 5px 0px;padding:6px 20px 6px 20px;color:white;}
+.event:hover{opacity:1;box-shadow:0 0 10px #666;}
+.event span{display:none;}
+.light-gray-box{background:#A3A3A3;}
+.blue-box{background:#6B8DAC;padding:14px 20px 0 20px;}
+.gray-box{background:#67696B;}
+.light-gray-box div{width:259px;height:24px;background:url(meet-cal-1-text.png);}
+.blue-box div{width:275px;height:86px;background:url(meet-cal-2-text.png);}
+.gray-box div{width:208px;height:20px;background:url(meet-cal-3-text.png);}
+
+.backup{float:right;background:url(arrow-up.png);width:16px;height:16px;margin:10px 10px 0;}
+#cursor{background:black;display:inline-block;width:24px;margin-bottom:-1px;margin-left:3px;height:34px;}

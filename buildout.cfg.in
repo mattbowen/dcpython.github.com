@@ -1,5 +1,0 @@
-[buildout]
-extends =
-#    conf/database.cfg
-#    conf/develop.cfg
-#    conf/production.cfg
