@@ -41,3 +41,8 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
 
 .back-up{float:right;background:url(arrow-up.png);width:16px;height:16px;margin:10px 10px 0;}
 #cursor{background:black;display:inline-block;width:24px;margin-bottom:-1px;margin-left:3px;height:34px;}
+
+/* FOOTER */
+#footer{color:#777;font-size:13px;padding:20px;border-top:1px solid #eee;text-align:center;}
+#footer div{padding:3px;}
+#footer a{color:#777;}
