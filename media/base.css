@@ -45,8 +45,9 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
 .back-up{float:right;background:url(arrow-up.png);width:16px;height:16px;margin:10px 10px 0;}
 #cursor{background:black;display:inline-block;width:24px;margin-bottom:-1px;margin-left:3px;height:34px;}
 .exec-pic{border:1px solid #eee;padding:2px;float:left;}
-#board-of-directors section{display:table;}
+#board-of-directors section{display:table;border-top:1px dashed #ddd;margin-top:5px;}
 #board-of-directors section div{display:table-cell;padding:10px;vertical-align:top;}
+#board-of-directors section p{margin:0px;padding:0px;}
 
 /* FOOTER */
 #footer{color:#777;font-size:13px;padding:20px;border-top:1px solid #eee;text-align:center;}
