@@ -22,6 +22,8 @@ nav li a.sel{color:black;}
 /* EACH SECTION */
 .center-page{width:900px;margin:auto;}
 .page{padding:20px 0 20px 0;}
+.page p{padding:10px 10px 0 10px;margin:0px;}
+a{color:#6A6A6A;}
 h1{font-family:arial black;text-transform:uppercase;color:#444;font-size:22px;margin:0px;border-bottom:1px solid #ccc;}
 h3{font-family:arial black;font-size:15px;margin:0px;color:#444;}
 p, li{font-family:georgia;color:#444;margin-top:0px;}

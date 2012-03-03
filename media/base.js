@@ -22,7 +22,7 @@ function smooth_scroll(id){
     
     setTimeout(function(){
         window.location.hash = '#' + id;
-        }, 700);
+        }, 800);
     
     return false;
 }
