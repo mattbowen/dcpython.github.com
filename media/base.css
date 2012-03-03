@@ -1,4 +1,4 @@
-body{margin:0px;padding:0px;border-top:5px solid #8DA7BF;box-shadow:0 0 3px #bbb inset;}
+body{margin:0px;padding:0px;border-top:5px solid black;box-shadow:0 0 3px #bbb inset;}
 
 /* HEADER */
 #logo{width:352px;height:49px;display:block;}/*background:url(dcpython.png);*/
@@ -39,5 +39,5 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
 .blue-box div{width:275px;height:86px;background:url(meet-cal-2-text.png);}
 .gray-box div{width:208px;height:20px;background:url(meet-cal-3-text.png);}
 
-.backup{float:right;background:url(arrow-up.png);width:16px;height:16px;margin:10px 10px 0;}
+.back-up{float:right;background:url(arrow-up.png);width:16px;height:16px;margin:10px 10px 0;}
 #cursor{background:black;display:inline-block;width:24px;margin-bottom:-1px;margin-left:3px;height:34px;}
