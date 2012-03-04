@@ -58,7 +58,7 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
 
 .image-right {
     float: right;
-    padding: 1em;
+    padding: .3em;
     margin: 1em;
-    border: 1px solid #777;
+    border: 1px solid #bbb;
 }
