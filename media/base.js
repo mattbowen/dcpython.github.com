@@ -18,11 +18,11 @@ $(document).ready(function(){
 function smooth_scroll(id){
     $('html,body').animate({
         scrollTop:$('#' + id).offset().top
-        }, 700);
+        }, 0);
     
     setTimeout(function(){
         window.location.hash = '#' + id;
-        }, 800);
+        }, 0);
     
     return false;
 }
